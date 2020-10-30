@@ -13,6 +13,7 @@
 <!-- - 📫 How to reach me: ... -->
 
 <!-- - 😄 Pronouns: ... -->
+
 - ⚡ Fun fact: My life is potato, eh.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Aeryle)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Aeryle&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
