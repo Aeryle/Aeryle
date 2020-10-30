@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Corrupted Manager
 
-- 🌱 I’m currently learning Python\
+- 🌱 I’m currently learning Python
 
 <!-- - 👯 I’m looking to collaborate on ... -->
 
