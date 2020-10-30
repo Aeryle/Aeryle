@@ -17,4 +17,4 @@
 - ⚡ Fun fact: My life is potato, eh.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Aeryle&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aeryle)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aeryle&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
