@@ -16,10 +16,10 @@
 
 - ⚡ Fun fact: My life is potato, eh.
 
-<a href="https://github.com/Aeryle/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Aeryle&theme=dracula" />
 </a>
 
-<a href="https://github.com/Aeryle/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aeryle&theme=dracula&hide=vbscript" />
 </a>
