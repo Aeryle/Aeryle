@@ -21,5 +21,5 @@
 </a>
 
 <a href="https://github.com/Aeryle/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aeryle&theme=dracula&layout=compact&hide=vbscript" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aeryle&theme=dracula&hide=vbscript" />
 </a>
