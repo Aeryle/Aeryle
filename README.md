@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Corrupted Manager
+- 🔭 I’m currently working on [TBA].
 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning [TBA].
 
 <!-- - 👯 I’m looking to collaborate on ... -->
 
-- 🤔 I’m looking for help with Corrupted Manager
+- 🤔 I’m looking for help with nothing.
 
 <!-- - 💬 Ask me about ... -->
 
