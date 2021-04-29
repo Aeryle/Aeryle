@@ -1,7 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?width=500&lines=Bienvenue+sur+mon+profil;Je+m'appelle+Micka%C3%ABl;Je+suis+%C3%A9tudiant+%C3%A0+la+Wild+Code+School)](https://git.io/typing-svg)  
 
 ### <div align="center">Je suis Mickaël, étudiant à la Wild Code School ⌨️</div>  
   
